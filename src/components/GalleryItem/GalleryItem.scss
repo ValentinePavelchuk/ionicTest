@@ -1,0 +1,8 @@
+.gallery {
+  display: flex;
+  justify-content: center;
+  &__item {
+    max-width: 300px;
+    max-height: 300px;
+  }
+}
